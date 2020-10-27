@@ -1,0 +1,7 @@
+###############################################################################
+# Automatic gene annotation pipeline for animal genome via comparative genomics
+###############################################################################
+
+
+Do you wish to download go-basic.obo file? (yes/no)
+
